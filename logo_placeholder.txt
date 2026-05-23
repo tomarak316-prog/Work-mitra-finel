@@ -1,0 +1,3 @@
+Place your Work Mitra logo here as: logo.png
+Recommended size: 512x512 px
+Format: PNG with transparent background

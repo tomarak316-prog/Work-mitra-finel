@@ -1,0 +1,2 @@
+Place splash screen image here as: splash.png
+Recommended size: 1080x1920 px
